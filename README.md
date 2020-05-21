@@ -16,8 +16,11 @@ Model Performance:
     • Validation Set  -   Accuracy: 100.0000%   &    Loss: 0.2829
     • Testing Set     -   Accuracy: 90.0000%    &    Loss: 0.3702
 
+
 Accuracy Graph
-<img src="images/acc.png" width=400>
+
+<img src="images/acc.png" width=500>
 
 Loss Graph
+
 <img src="images/loss.png" width=500>
