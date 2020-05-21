@@ -6,7 +6,7 @@ Machine Learned Models have been powerful in detecting tumors and cancers. So, I
 
 (Note: This is only for educational purpose. DO NOT use it as reference for medical purpose.)
 
-After lots of hyperparameter tuning, the folowing model was achieved. The model is saved as 'model.h5'.
+After hyperparameter tuning, the folowing model was achieved. The model is saved as 'model.h5'.
 
 Model Performance:
 
