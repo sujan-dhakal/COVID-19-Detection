@@ -10,8 +10,8 @@ After hyperparameter tuning, the folowing model was achieved. The model is saved
 
 Model Performance:
 
-    - Training Set    -   Accuracy: 75.0000%    &    Loss: 0.4946
-    - Validation Set  -   Accuracy: 100.0000%   &    Loss: 0.2829
-    - Testing Set     -   Accuracy: 90.0000%    &    Loss: 0.3702
+    • Training Set    -   Accuracy: 75.0000%    &    Loss: 0.4946
+    • Validation Set  -   Accuracy: 100.0000%   &    Loss: 0.2829
+    • Testing Set     -   Accuracy: 90.0000%    &    Loss: 0.3702
 
 
