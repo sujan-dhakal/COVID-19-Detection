@@ -6,6 +6,8 @@ Machine Learned Models have been powerful in detecting tumors and cancers. So, I
 
 (Note: This is only for educational purpose. DO NOT use it as reference for medical purpose.)
 
+Image Dataset was used from: https://github.com/ieee8023/covid-chestxray-dataset
+
 After hyperparameter tuning, the folowing model was achieved. The model is saved as 'model.h5'.
 
 Model Performance:
@@ -14,4 +16,8 @@ Model Performance:
     • Validation Set  -   Accuracy: 100.0000%   &    Loss: 0.2829
     • Testing Set     -   Accuracy: 90.0000%    &    Loss: 0.3702
 
+Accuracy Graph
+<img src="images/acc.png" width=400>
 
+Loss Graph
+<img src="images/loss.png" width=500>
