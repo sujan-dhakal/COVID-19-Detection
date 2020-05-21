@@ -6,7 +6,10 @@ Machine Learned Models have been powerful in detecting tumors and cancers. So, I
 
 (Note: This is only for educational purpose. DO NOT use it as reference for medical purpose.)
 
-Image Dataset was used from: https://github.com/ieee8023/covid-chestxray-dataset
+Image Dataset:
+https://github.com/ieee8023/covid-chestxray-dataset
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
 
 After hyperparameter tuning, the folowing model was achieved. The model is saved as 'model.h5'.
 
