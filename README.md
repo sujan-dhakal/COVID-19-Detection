@@ -13,6 +13,7 @@ Image Dataset:
     https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
 
 Normal Chest X-ray Images: 25
+
 COVID-19 Chest X-ray Images: 25
 
 After hyperparameter tuning, the folowing model was achieved. The model is saved as 'model.h5'.
